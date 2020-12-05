@@ -6,5 +6,5 @@ function showHelloWorld () {
 }
 
 function changered () {
-  document.getElementById("mytext").style.color = "red"
+  document.getElementById('mytext').style.color = 'red'
 }
