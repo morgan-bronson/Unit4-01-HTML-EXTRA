@@ -1,7 +1,7 @@
 'use strict'
 alert('Hello, world!')
 
-function showHelloWorld () {  // eslint-disable-line no-unused-vars
+function showHelloWorld () { // eslint-disable-line no-unused-vars
   window.location.href = 'helloworldimage.png'
 }
 
